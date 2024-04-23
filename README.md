@@ -1,1 +1,1 @@
-This is the readme for Anna's github repo.
+Welcome to PenguinDataR, an R package dedicated to the exploration and visualization of penguin datasets. This package provides tools for easy manipulation, analysis, and presentation of data on penguin species collected from multiple research studies. Our focus is to support environmental scientists, ecologists, and educators in understanding penguin behavior, distribution, and demographics through intuitive graphical representations.
