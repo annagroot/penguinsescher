@@ -2,7 +2,7 @@
 #'
 #' Plots a histogram of the selected attribute for each of the palmerpenguins species.
 #' @param data Loads data set of penguin statistics
-#' @param variable_name Select which variable you want summarized
+#' @param variable_name Select which variable you want summarized as string
 #' @return Returns a histogram (ggplot) of each species based on a specified numeric variable
 #' @examples
 #' Plot the distribution of 'body_mass_g' for each penguin species
