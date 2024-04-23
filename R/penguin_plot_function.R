@@ -22,3 +22,6 @@ plot_species_distribution <- function(data, variable_name) {
          y = "Frequency") +
     theme_minimal()
 }
+
+
+#Test commit
